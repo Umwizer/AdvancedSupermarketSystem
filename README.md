@@ -1,6 +1,4 @@
-Here is a simpler, more natural README without emojis and without “AI-style” wording:
 
----
 
 # Supermarket Management System (Java OOP Project)
 
@@ -8,9 +6,8 @@ Here is a simpler, more natural README without emojis and without “AI-style”
 
 This project is a Supermarket Management System developed using Java and Object-Oriented Programming principles. It simulates basic supermarket operations such as managing products, customers, and processing orders.
 
-The system is designed to demonstrate core OOP concepts including inheritance, abstraction, encapsulation, polymorphism, interfaces, and the factory design pattern.
+The system is designed to demonstrate core OOP concepts, including inheritance, abstraction, encapsulation, polymorphism, interfaces, and the factory design pattern.
 
----
 
 ## Features
 
@@ -22,7 +19,6 @@ The system is designed to demonstrate core OOP concepts including inheritance, a
 * Validate user input
 * Generate basic receipts
 
----
 
 ## Project Structure
 
@@ -43,7 +39,6 @@ The system is organized into the following components:
 * ProductFactory
 * SupermarketSystem (main class)
 
----
 
 ## OOP Concepts Used
 
@@ -54,7 +49,6 @@ The system is organized into the following components:
 * Interface: Sellable defines selling behavior
 * Factory Pattern: Used to create product objects based on category
 
----
 
 ## How the System Works
 
@@ -63,10 +57,9 @@ The system is organized into the following components:
 3. A product is created using ProductFactory
 4. Customer details are entered
 5. An order is created
-6. The system processes the sale using Sellable methods
-7. Results are displayed including product, customer, and order details
+6. The system processes the sale using the Sellable methods
+7. Results are displayed, including product, customer, and order details
 
----
 
 ## How to Run
 
@@ -75,9 +68,9 @@ The system is organized into the following components:
 3. Run the SupermarketSystem main class
 4. Follow the prompts in the console
 
----
 
 ## Author
 
 Umwizerwa Ruth
+
 Software Engineering Student
