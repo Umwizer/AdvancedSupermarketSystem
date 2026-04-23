@@ -2,4 +2,4 @@ FROM openjdk:17-jdk-slim
 WORKDIR /app
 COPY SupermarketSystem.jar /app/SupermarketSystem.jar
 ENTRYPOINT ["java", "-jar", "SupermarketSystem.jar"]
-CMD ["java", "-cp", "out", "AdvancedSupermaketManagementSystme.SupermarketSystem"]
+CMD ["java", "-cp", "out", "AdvancedSupermaketManagementSystem.SupermarketSystem"]
